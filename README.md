@@ -1,2 +1,2 @@
-# Projeto-Interdisciplinar-Python
-Desenvolvimento de uma aplicação em Python, com o intuito de gerenciar e monitorar o funcionamento de equipamentos hospitalares através da rede, funcionando como um hub das informações provenientes dos equipamentos conectados por uma rede única, tratando a comunicação adequada entre a aplicação e os equipamentos, tendo um  controle de manutenção, utilização e reposição do equipamento.
+# gerencial-hospital-python
+Desenvolvimento de uma aplicação em Python, com o intuito de gerenciar e monitorar o funcionamento de equipamentos hospitalares através da rede, funcionando como um hub das informações provenientes dos equipamentos conectados por uma rede única, tratando a comunicação adequada entre a aplicação e os equipamentos, tendo um controle de manutenção, utilização e reposição do equipamento.
